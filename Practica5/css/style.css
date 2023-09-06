@@ -1,0 +1,28 @@
+body {
+    background-color:aquamarine;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+    font-size: 22px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style: circle;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+div{
+    color:black;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 40px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 15px;
+    border: solid 2px black;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px black;
+}
